@@ -1,0 +1,12 @@
+*{
+    max-width: 750px;
+    margin: auto;
+    font-family: fantasy;
+}
+#whole{
+    border-style: groove;
+}
+#intro{
+    color: white;
+    background-color:#0099ff;
+}
